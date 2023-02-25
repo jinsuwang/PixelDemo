@@ -2,7 +2,7 @@ doc<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Sam Jin</h1>
 
 <p>My first paragraph.</p>
 
